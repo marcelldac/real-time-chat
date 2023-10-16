@@ -1,0 +1,6 @@
+//Needs REST Client vs code extension
+
+POST http://localhost:3001/authenticate
+Content-Type: application/json
+
+{"username": "Marcell"}
