@@ -9,8 +9,7 @@ Real Time Chat made with React.js and Node.js
  - [Nodejs Documentation](https://nodejs.org/en/docs)
  - [React Documentation](https://react.dev/learn)
 
-
-## Authors
+## Author
 
 - [@marcelldac](https://www.github.com/marcelldac)
 
